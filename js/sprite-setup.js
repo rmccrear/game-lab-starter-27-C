@@ -14,4 +14,10 @@ function setupSprites() {
   // star.velocityY = -2;
   // star.height = 30;
   // star.width = 30;
+
+  platform1 = createSprite(randomNumber(50,300),0, 20, 75);
+  platform1.addAnimation('platform.png');
+
+  platform2 = createSprite(randomNumber(50,300),0, 20, 75);
+  platform2.addAnimation('platform.png');
 }

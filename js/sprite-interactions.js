@@ -2,7 +2,7 @@
 function doSpriteInteraction() {
     // SPRITE INTERACTIONS
     // reset the coin when the player touches it
-    if (player.isTouching(coin){
+    if (player.isTouching(coin)) {
         coin.x = randomNumber(20, 380);
         coin.y = randomNumber(20, 380);
         score = score + 1;

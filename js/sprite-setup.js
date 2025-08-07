@@ -7,8 +7,8 @@ function setupSprites() {
   player.height = 50;
   player.width = 50;
 
-  star = createSprite(100, 100, 50, 50);
-  star.shapeColor = "aqua";
+ //tar = createSprite(100, 100, 50, 50);
+ //tar.shapeColor = "aqua";
   // star.addAnimation('twinkle', starAnimation);
   // star.velocityX = -1;
   // star.velocityY = -2;

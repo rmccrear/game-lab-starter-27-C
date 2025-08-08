@@ -14,4 +14,3 @@ var card;
 var card2;
 var card3;
 var card4;
-var card5;

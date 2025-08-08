@@ -18,8 +18,5 @@ var card4 = createSprite(200, 200);
 card4.setAnimation("cardClubs10_1");
 card4.scale = 0.3;
 card4.height = 0.2;
-var card5 = createSprite(200, 200);
-card5.setAnimation("cardClubs10_1");
-card5.scale = 0.3;
-card5.height = 0.2;
+
 }

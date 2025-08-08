@@ -6,8 +6,7 @@
   card.x = card.x + 8;
   card3.x = card3.x + 3;
   card4.y = card4.y + 5;
-  card5.x = card5.x - 5;
-  
+ 
   
   // LOOPING
   if(player.x > 420){player.x = -20;}
@@ -39,10 +38,4 @@
   if(card4.x < -10){card4.x = 410;}
   if(card4.x > 410){card4.x = -10;}
   
-  // rock5 location
-  if(card5.y > 410){card5.y = -10;}
-  if(card5.y < -10){card5.y = 410;}
-  if(card5.x < -10){card5.x = 410;}
-  if(card5.x > 410){card5.x = -10;}
-  }
-  
+  }  

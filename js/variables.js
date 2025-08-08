@@ -1,6 +1,3 @@
-// Example Code follows.
-
-// animation variables
 
 // sprite variables
 var playerAnimation;

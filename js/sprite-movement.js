@@ -38,4 +38,6 @@
   if(card4Animation.x < -10){card4Animation.x = 410;}
   if(card4Animation.x > 410){card4Animation.x = -10;}
   
-  }  
+
+  }
+  

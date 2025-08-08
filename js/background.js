@@ -1,19 +1,14 @@
 
-function drawBackground() {
-    background1();
-}
+function drawBackground(){
 
-function background1() {
+
+Function background() {
     background("darkBlue");
     noStroke();
-    fill("yellow");
-    ellipse(randomNumber(0, 400), randomNumber(0, 400), 3, 3);
-    ellipse(randomNumber(0, 400), randomNumber(0, 400), 3, 3);
+    fill(255, 255, 0); // yellow
     ellipse(340, 50, 60, 60);
-    fill("darkBlue");
+    fill(0, 0, 139); // dark blue
     ellipse(320, 30, 60, 60);
-  }
+}
 
-  function background2() {
-    
-  }
+

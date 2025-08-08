@@ -2,7 +2,7 @@
 // sprite variables
 var player1;
 var coin;
-var score;
+var score = 0;
 var platform1;
 var platform2;
 var card;

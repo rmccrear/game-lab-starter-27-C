@@ -1,8 +1,3 @@
-// @ts-check
-
-/// <reference types="p5/global" />
-/// <reference path="p5.play.d.ts" />
-
 function preload() {
   setupAnimations();
 }
@@ -19,7 +14,7 @@ function draw() {
   // draw the score board and other boards
   // in: display-boards.js
   showBoards();
-  
+
   // respond to user input 
   // in: user-controls.js
   respondToUser();

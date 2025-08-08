@@ -8,8 +8,8 @@ function doSpriteInteraction() {
         score = score + 1;
     }
     // make the obstacles disappear and decrease score if player touches it
-    if (player.isTouching(card1)) {
-        card1.visibility = false;
+    if (player.isTouching(card)) {
+        card.visibility = false;
         score = score - 1;
     }
     if (player.isTouching(card2)) {

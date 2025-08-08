@@ -12,7 +12,11 @@ function respondToUser() {
 
     // decrease the x velocity when user clicks "left"
     if (keyDown("LEFT_ARROW")) {
+<<<<<<< HEAD
         player.velocityX = - 0.5;
+=======
+        player.velocityX = player.velocityX- 0.5;
+>>>>>>> 7b9f595f117b7dbf28ccca387becb8d0442b7761
     }
 
     // increase the x velocity when the user clicks "right"

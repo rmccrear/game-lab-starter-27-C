@@ -1,14 +1,9 @@
-// @ts-check
-
-/// <reference types="p5/global" />
-/// <reference path="p5.play.d.ts" />
-
 function preload() {
   setupAnimations();
 }
 
 function setup() {
-  createCanvas(400, 400, null, document.querySelector("#game-container"));
+  createCanvas(400, 400);
   setupSprites();
 }
 
@@ -19,7 +14,7 @@ function draw() {
   // draw the score board and other boards
   // in: display-boards.js
   showBoards();
-  
+
   // respond to user input 
   // in: user-controls.js
   respondToUser();

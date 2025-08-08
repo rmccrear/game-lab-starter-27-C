@@ -1,5 +1,3 @@
-import { Score } from "p5";
-
 function showBoards() {
   showScore ()
 }

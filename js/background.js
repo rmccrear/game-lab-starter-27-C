@@ -1,4 +1,4 @@
-function background() {
+function drawBackground() {
     background("darkBlue");
     noStroke();
     fill(255, 255, 0); // yellow

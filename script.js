@@ -9,7 +9,7 @@ function preload() {
 
 function setup() {
   createCanvas(400, 400, null, document.querySelector("#game-container"));
-  setupSprites();
+  spritesetup();
 }
 
 function draw() {

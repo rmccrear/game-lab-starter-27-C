@@ -22,4 +22,7 @@ function setupSprites() {//player, target, and obstacles
 
     platform2 = createSprite(randomNumber(50, 300), 0);
     platform2.addAnimation("platform", platform2Ani);
+
+    coin = createSprite(randomNumber(10,300),randomNumber(10,300));
+    coin.addAnimation("coin", coinAni);
 }

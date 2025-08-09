@@ -2,12 +2,12 @@
 function doSpriteInteraction() {
     //     // SPRITE INTERACTIONS
     //     // reset the coin when the player touches it
-    //     if (player.isTouching(coin)) {
-    //         coin.x = randomNumber(20, 380);
-    //         coin.y = randomNumber(20, 380);
-    //         score = score + 1;
-    //     }
-    //     // make the obstacles disappear and decrease score if player touches it
+    if (player1.isTouching(coin)) {
+        coin.x = randomNumber(20, 380);
+        coin.y = randomNumber(20, 380);
+        score = score + 1;
+    }
+    //    // make the obstacles disappear and decrease score if player touches it
     //     if (player.isTouching(card1)) {
     //         card1.visibility = false;
     //         score = score - 1;

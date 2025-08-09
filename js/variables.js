@@ -1,11 +1,16 @@
 
 // sprite variables
-var playerAnimation;
-var coinAnimation;
-var score;
-var platform1Animation;
-var platform2Animation;
-var cardAnimation;
-var card2Animation;
-var card3Animation;
-var card4Animation;
+var player1;
+var coin;
+var score = 0;
+var platform1;
+var platform2;
+var card;
+var card2;
+var card3;
+var card4;
+var cardAni;
+var card2Ani;
+var card3Ani;
+var card4Ani;
+var player1Ani;

@@ -1,9 +1,8 @@
 
-function setupAnimations() {
-  cardAnimation = loadAnimation("sprites/cardClubsQ_1.png");
-  card2Animation = loadAnimation("sprites/cardClubs3_1.png");
-  card3Animation = loadAnimation("sprites/cardClubs10_1.png");
-  card4Animation = loadAnimation("sprites/cardClubsA_1.png");
-  coinAnimation = loadAnimation ("sprites/coin.png")
-  playerAnimation = loadAnimation("sprites/kid.png");
+function setupAnimations(){
+ cardAni = loadAnimation("sprites/cardClubsQ_1.png");
+ card2Ani = loadAnimation("sprites/cardClubs3_1.png");
+ card4Ani = loadAnimation("sprites/cardClubs10_1.png");
+ card3Ani = loadAnimation("sprites/cardClubsA_1.png");
+ player1Ani = loadAnimation("sprites/kid_34_excited_1.png");
 }

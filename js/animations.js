@@ -5,4 +5,7 @@ function setupAnimations(){
  card4Ani = loadAnimation("sprites/cardClubs10_1.png");
  card3Ani = loadAnimation("sprites/cardClubsA_1.png");
  player1Ani = loadAnimation("sprites/kid_34_excited_1.png");
+ coinAni = loadAnimation("sprites/coin.png");
+ platform1Ani = loadAnimation("sprites/platform.png");
+ platform2Ani =loadAnimation("sprites/platform.png");
 }

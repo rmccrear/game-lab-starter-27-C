@@ -14,3 +14,6 @@ var card2Ani;
 var card3Ani;
 var card4Ani;
 var player1Ani;
+var coinAni;
+var platform1Ani;
+var platform2Ani;

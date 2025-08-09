@@ -1,0 +1,230 @@
+[33mcommit f687efa5309a3cde85f0554faeead553389032c3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: honeybees00 <Cortizmason@outlook.com>
+Date:   Thu Aug 7 21:54:37 2025 -0400
+
+    changed first line
+
+[33mcommit 567b15c5177a263b4fbfee2fb23474d1d4457c0c[m
+Merge: 7c25b19 2711e18
+Author: Your Name <andrew.sanders22700@gmail.com>
+Date:   Thu Aug 7 20:05:32 2025 -0500
+
+    Merge branch 'main' of github.com:rmccrear/game-lab-starter-27-C
+
+[33mcommit 7c25b19cfa68f6a69141fca4d95199d423b49857[m
+Author: Your Name <andrew.sanders22700@gmail.com>
+Date:   Thu Aug 7 20:04:55 2025 -0500
+
+    sprites
+
+[33mcommit 2711e184df473dceee2f5cada35fecbd37a8b91a[m
+Author: Lashon81 <lashon_riley81@yahoo.com>
+Date:   Thu Aug 7 20:49:55 2025 -0400
+
+    changes
+
+[33mcommit 03f1f1bd3a239d6f15acee8b522fd6e4db6ba951[m
+Author: honeybees00 <Cortizmason@outlook.com>
+Date:   Thu Aug 7 20:29:21 2025 -0400
+
+    changed variables and added sprite movement
+
+[33mcommit ba454b6abeed6cfcc53eb27682051ec3dd530295[m
+Author: TyQuincia-Oby <tyquinciaoby@gmail.com>
+Date:   Thu Aug 7 20:48:44 2025 +0000
+
+    fixed user controls and sprite interactions
+
+[33mcommit b38d5e6fa61ac09137dbb6cb878fff61c1005267[m
+Author: TyQuincia-Oby <tyquinciaoby@gmail.com>
+Date:   Thu Aug 7 20:36:57 2025 +0000
+
+    added user controls
+
+[33mcommit 5f3e53012fd75ed3dac3f05e8daef7223bb4635c[m
+Author: TyQuincia-Oby <tyquinciaoby@gmail.com>
+Date:   Thu Aug 7 20:07:40 2025 +0000
+
+    added user controls
+
+[33mcommit 350e09f258c298ed32e8049fdc1017c7fb71a236[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Aug 6 16:28:00 2025 -0700
+
+    update vscode settings
+
+[33mcommit c94d510b45421b33d3b9e18c502465e780c4a95b[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Aug 6 06:01:35 2025 -0700
+
+    add favicon icon
+
+[33mcommit 06f109658161e8f61b7d1ace67243affd09a5f7c[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Aug 6 05:40:35 2025 -0700
+
+    remove starter code from user-controls.js
+
+[33mcommit 9ba2e56b16016c0b739b3b2c88880aad068a2ff9[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Aug 6 04:57:09 2025 -0700
+
+    remove platform vars
+
+[33mcommit a63e68bbe1c5248cc6c198c393c55242ed8c72b0[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Aug 6 04:55:26 2025 -0700
+
+    update animation variables
+
+[33mcommit eb2673f8f301871e8bf9f57ef4a6c0a695eca951[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Aug 6 04:55:08 2025 -0700
+
+    move animation vars to variables.js
+
+[33mcommit 3f4e7c22d97fe41032bc355981d5ee7a46aff2aa[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Aug 6 04:46:35 2025 -0700
+
+    add showScore fn
+
+[33mcommit f8b75f1222702d104da72cda1777c020366d2bbc[m
+Merge: 15ee1e1 40acd4b
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Tue Aug 5 20:11:54 2025 -0700
+
+    Resolve merge conflict in background.js for Group A - keep enhanced version with randomNumber function
+
+[33mcommit 15ee1e1c4dad48e530d2cc1160961ceded9aa6c3[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Tue Aug 5 20:05:22 2025 -0700
+
+    Update background.js with enhanced background drawing and randomNumber usage
+
+[33mcommit 319f9e8a90d55343fa0934b5042c5ceab91f58cd[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Tue Aug 5 20:03:07 2025 -0700
+
+    Add randomNumber function and comprehensive JSDoc documentation to extras.js and create extras.d.ts
+
+[33mcommit 40acd4bf55499a67d2cddb75cf47b646c6f1d78a[m
+Author: Alphonso Gillis <shadowtheguy912@gmail.com>
+Date:   Tue Aug 5 19:08:49 2025 -0500
+
+    Deleted starter code we were instructed to delete.
+
+[33mcommit 8ce17708fe5186efddc8b6f979fbde3125e23442[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Tue Aug 5 09:53:11 2025 -0700
+
+    Update style.css with improved layout and styling
+
+[33mcommit b663c3c9d78833027c8d3f4f9f8cbf1db0fe4fe9[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Aug 4 22:54:04 2025 -0700
+
+    Add additional lesson reference links to README.md
+
+[33mcommit 39a9f6cb2b40a918a9e9a2b1b03f8859bf021529[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Aug 4 22:52:29 2025 -0700
+
+    add links to steps on lesson
+
+[33mcommit 8c42fbaa5a8b11db86d58f50acb9cffa757a1bf4[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Aug 4 22:41:37 2025 -0700
+
+    Fix grammar and clarity issues in README.md
+
+[33mcommit 602972acd2632149ad2e08684f8ea839dfa25a6d[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Aug 4 22:37:36 2025 -0700
+
+    Update README with lesson references and documentation links
+
+[33mcommit 5a466b3f6effe96e2ca03cb73a96b6dae2d37e40[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Aug 4 21:50:05 2025 -0700
+
+    Replace setVelocity with velocityX and velocityY in sprite setup
+
+[33mcommit 49e95e6513638b9d22d6b321bec0cefbc9bdc74f[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Aug 4 21:45:55 2025 -0700
+
+    update p5.d.ts
+
+[33mcommit 359a0eb9c2d9962359ac8fccbaacc9b0a080d839[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Jul 30 23:56:58 2025 +0800
+
+    feat: add p5.d.ts for core p5.js type definitions
+    
+    - Add basic p5.js type definitions for better IntelliSense support
+    - Provides type checking for core p5.js functions and objects
+    - Enhances development experience for students using p5.js with p5.play
+    
+    This completes the TypeScript setup for the game development environment.
+
+[33mcommit 7fc0b48d1b7787d05eacef9f19ae23a0b278150d[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Jul 30 23:48:10 2025 +0800
+
+    docs: improve p5.play.d.ts documentation with game examples
+    
+    - Add detailed examples for x/y properties with game scenarios
+    - Enhance addAnimation examples with fly/frog animations
+    - Improve setVelocity examples with movement patterns
+    - Add collision detection examples for isTouching
+    - Expand createSprite examples with game object creation
+    - Add comprehensive drawSprites usage examples
+    - Include keyWentDown examples for jump and movement controls
+    - Add loadSpriteSheet function with detailed documentation
+    - Add p5.js constants (LEFT, CENTER, RIGHT, TOP, BOTTOM)
+    
+    Provides better guidance for students building games with practical examples.
+
+[33mcommit dc3754a1ff99ff69bf4df4178cc657b3c546c9f1[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Wed Jul 30 23:35:02 2025 +0800
+
+    feat: enhance TypeScript definitions and configuration
+    
+    - Add comprehensive JSDoc documentation to p5.play.d.ts
+    - Include velocityX and velocityY properties for Sprite class
+    - Add keyWentDown, keyWentUp, keyDown functions with P5PlayKey type
+    - Add playSound and stopSound functions from extras.js
+    - Add loadSpriteSheet function with detailed examples
+    - Add p5.js constants (LEFT, CENTER, RIGHT, TOP, BOTTOM)
+    - Improve examples throughout with game-specific use cases
+    - Add p5.d.ts for core p5.js type definitions
+    - Update jsconfig.json for better IntelliSense support
+    
+    This provides better TypeScript support, autocomplete, and documentation
+    for students working with p5.play game development.
+
+[33mcommit 0c946963c870fc444571375af2ec89316e58dadb[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Jul 28 20:51:59 2025 +0800
+
+    update example starter code
+
+[33mcommit 483fff75f39072bb4a8fac9edeb32078012254cd[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Jul 28 00:35:34 2025 +0800
+
+    update p5.play.d.ts to have docs and examples
+
+[33mcommit 88d9a2256e576946718713ff03e5e6992a769b1f[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Jul 28 00:17:56 2025 +0800
+
+    exclude vendor from linting
+
+[33mcommit ad768090ff9a8b8ba6942b8c339e1d1b56c76ea2[m
+Author: Robert McCreary Mannino <fooyinfighter@gmail.com>
+Date:   Mon Jul 28 00:09:35 2025 +0800
+
+    spruce up 

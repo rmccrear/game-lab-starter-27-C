@@ -1,14 +1,15 @@
 
 function doSpriteMovement() {
   // FALLING
-  player1.y = player1.y + 3;
-  card2.y = card2.y + 10;
-  card.x = card.x + 8;
-  card3.x = card3.x + 3;
-  card4.y = card4.y + 5;
+  player1.velocityY =1;
+  card2.velocityY =3;
+  card.velocityX=3;
+  card3.velocityX=3;
+  card4.velocityY=3
 
-  platform1.y = platform1.y + 2;
-  platform2.y = platform2.y + 2;
+  platform1.velocityY = 2;
+  platform2.velocityY = 2;
+
 
 
 
@@ -41,7 +42,5 @@ function doSpriteMovement() {
   if (card4.y < -10) { card4.y = 410; }
   if (card4.x < -10) { card4.x = 410; }
   if (card4.x > 410) { card4.x = -10; }
-
-
 }
 
